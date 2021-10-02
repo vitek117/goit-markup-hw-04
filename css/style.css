@@ -134,6 +134,10 @@ padding-bottom: 32px;
   fill: var(--primary-text-color);
   margin-right: 10px;
 }
+.header-icon:hover,
+.header-icon:focus{
+  fill: var(--accent-color);
+}
 
 .header-tel-link {
   font-weight: 500;
